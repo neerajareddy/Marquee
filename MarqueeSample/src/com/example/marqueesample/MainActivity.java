@@ -1,3 +1,4 @@
+//testing if this works//
 package com.example.marqueesample;
 
 import android.os.Bundle;
